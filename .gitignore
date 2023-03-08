@@ -1,0 +1,8 @@
+yellow_tripdata_2022-01.parquet
+yellow_tripdata_2022-02.parquet
+/env
+kubeflow_try/iris_classifier_exp_2023-02-28.zip
+/models
+/mlruns
+/mlartifacts
+kubeflow_try/mohit_test.zip
